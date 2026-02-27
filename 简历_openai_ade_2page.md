@@ -17,13 +17,11 @@ I also ship high-leverage automation and GenAI products end-to-end, including IF
 
 ## CORE SKILLS
 
-- **GenAI/LLM:** OpenAI API (chat + function calling), structured outputs (JSON), RAG, prompt engineering, vision/multimodal prototyping, agent/tool integration (MCP)
-- **Backend/Apps:** Python, FastAPI, API design, automation, CI/CD (GitHub Actions / GitLab CI)
-- **Frontend:** JavaScript, Next.js (production web app)
-- **Cloud/Infra:** AWS (Lambda, SageMaker, Redshift, CloudWatch), Kubernetes, Helm, Terraform, Docker
-- **Data Platforms:** BigQuery, Redshift, Snowflake, Databricks, Athena, Teradata; Spark
-- **ETL/Orchestration:** dbt, PySpark, AWS Glue, Kinesis, Airflow, Fivetran; Azure Data Factory
-- **Observability:** New Relic (platform logs/monitoring)
+- **GenAI deployment:** OpenAI API (chat + function/tool calling), structured outputs (JSON), RAG/vision prototyping, agent/tool integration (MCP)
+- **Enterprise delivery:** use-case qualification, roadmap/backlog, exec communication, stakeholder management, time-to-value
+- **Engineering:** Python, JavaScript (Next.js), API design (FastAPI), CI/CD (GitHub Actions), observability (New Relic)
+- **Cloud/infra:** Kubernetes, Helm, Terraform, Docker; AWS (Lambda/SageMaker/Redshift)
+- **Data:** dbt + BigQuery, geospatial analytics; familiarity with Snowflake/Databricks/Athena
 
 ---
 
@@ -73,10 +71,11 @@ Sydney, NSW | Mar 2022 – Nov 2023
 
 ---
 
-## THOUGHT LEADERSHIP
+## RESOURCES (Writing / Open-source)
 
-- Published: **“Three ways to structure tool calling with LLM agent — a security perspective”** (prompt injection / auth considerations)  
+- Medium: **“Three ways to structure tool calling with LLM agent — a security perspective”** (prompt injection / auth)  
   https://medium.com/@zhangcj330/three-ways-to-structure-tool-calling-with-llm-agent-a-security-perspective-0c30f637b4ee
+- Resume repo: https://github.com/choosiezhang-bot/super-choosie-resume
 
 ---
 
