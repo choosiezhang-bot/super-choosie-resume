@@ -61,9 +61,9 @@ Sydney, NSW | Mar 2022 – Nov 2023
 2025 – Present | www.thebrickai.com
 
 - Built and shipped a consumer-facing GenAI product for Australian property search and suburb selection; reached **<200** trial users.
-- Implemented an agentic workflow centered on **chat + tool/function calling** with **structured JSON outputs** to orchestrate multi-step retrieval and ranking.
-- Built a Next.js (**JavaScript**) frontend and iterated rapidly using user feedback and lightweight human evaluation (task completion, retrieval quality, image understanding accuracy).
-- Instrumented conversation/transaction logs (LangSmith-style) to compare runs and improve prompts/tools based on real user traces.
+- Took the product to market through live demos and community engagement: **speaker** at **Actuarial Summit 2025** (≈**200** attendees; room at capacity) and regular showcases at **AI meetups/conferences**, collecting feedback and iterating the roadmap.
+- Owned the business narrative end-to-end: created product strategy materials and a **business plan** for a government grant application (**under review**).
+- Built the agentic core using **OpenAI chat + function/tool calling** with **structured JSON outputs**, and improved reliability via trace/log-driven iteration (LangSmith-style conversation/transaction logs).
 
 ### GenAI / Claims — PDS-grounded RAG + Vision/OCR (Consulting prototypes)
 
