@@ -9,9 +9,9 @@ Tel: +61 474 845 288 | Email: Zhangcj330@gmail.com | LinkedIn: https://www.linke
 
 **I deploy GenAI like an engineer and sell it like a consultant.**
 
-AI Deployment Engineer / ML Engineer with ~4+ years delivering enterprise AI and data products in insurance and consulting, plus a production GenAI app.
-I turn GenAI capability into adoption by moving customers from **use-case → architecture → production**, with disciplined delivery (governance, CI/CD approval gates, observability) and strong stakeholder alignment.
-I’ve shipped a Command Centre real-time hazard map (**10–30 DAU**, ~**30‑min** refresh) cutting response decisions from **days to hours**, and automated IFRS17 reporting from **60+ hours to ~10 minutes**—built hands-on with **OpenAI API (chat + function calling)**, governed “single view” data products (dbt + BigQuery), and **Kubernetes/Helm** with **New Relic**.
+AI Deployment Engineer / ML Engineer with ~**5 years** across consulting + enterprise delivery (incl. internship experience), focused on getting GenAI into **production adoption**.
+I build decision and automation systems that change how teams operate—e.g., a Command Centre real-time hazard map (**10–30 DAU**, ~**30‑min** refresh) that cut response decisions from **days to hours**, supporting outreach at **millions-of-customers** scale.
+I also ship high-leverage automation and GenAI products end-to-end, including IFRS17 reporting automation (**60+ hours → ~10 minutes**) and a production agentic app (BrickAI; **Actuarial Summit 2025 speaker**, ~**200** attendees).
 
 ---
 
@@ -37,6 +37,7 @@ Sydney, NSW | Sep 2025 – Present
 - Delivered a production deployment on **Kubernetes** (Helm-based), integrating **CARTO** and **BigQuery**-backed querying to render live metrics on a map; implemented CI/CD via **GitHub Actions** with **approval gates** for production changes.
 - Operated within enterprise data governance: contributed designs in the **Data & AI Architecture Forum (DAF)**; aligned to “single view” data products (e.g., **Single View of Property/Claims/Policy/Customer**) built on **dbt + BigQuery** with a controlled ingress layer.
 - Partnered with senior stakeholders (GM/exec audiences) to define the operating model and metrics on the map (e.g., **claim count**, total damage, **sum insured**, hail distribution, roof type / solar panel distribution), and iterated based on feedback.
+- Led use-case qualification and roadmap discussions for Command Centre decisioning workflows, translating stakeholder needs into a prioritized backlog and measurable success criteria.
 - Supported safe operations with auditability and observability: leveraged **BigQuery query history** and platform logging across CARTO/Kubernetes with **New Relic**.
 - Built reusable internal data services and explored packaging API calls into **MCP tools** for reuse by emerging agent workflows.
 
@@ -46,6 +47,7 @@ Sydney, NSW | Nov 2023 – Sep 2025
 - Automated monthly **IFRS17** valuation reporting end-to-end for Suncorp NZ, reducing cycle time from **60+ hours to ~10 minutes** and improving timeliness and reliability of regulatory reporting.
 - Led GenAI/ML prototypes from discovery to executive-ready demos (Text-to-SQL exploration; claims decision-support concepts using tool calling + OCR/Vision + **PDS-grounded RAG**); helped stakeholders evaluate feasibility/ROI and make build-vs-buy decisions.
 - Worked across architecture and implementation (Python + cloud + data platforms), translating stakeholder needs into build plans, demos, and success metrics.
+- Codified learnings into reusable assets (templates, demo flows, and guidance) to help teams replicate wins across multiple stakeholders and workstreams.
 
 ### Servian — Associate Consultant
 Sydney, NSW | Mar 2022 – Nov 2023
