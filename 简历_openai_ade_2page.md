@@ -9,9 +9,9 @@ Tel: +61 474 845 288 | Email: Zhangcj330@gmail.com | LinkedIn: https://www.linke
 
 **I deploy GenAI like an engineer and sell it like a consultant.**
 
-AI Deployment Engineer / ML Engineer with ~**5 years** across consulting + enterprise delivery (incl. internship experience), focused on getting GenAI into **production adoption**.
-I build decision and automation systems that change how teams operate—e.g., a Command Centre real-time hazard map (**10–30 DAU**, ~**30‑min** refresh) that cut response decisions from **days to hours**, supporting outreach at **millions-of-customers** scale.
-I also ship high-leverage automation and GenAI products end-to-end, including IFRS17 reporting automation (**60+ hours → ~10 minutes**) and a production agentic app (BrickAI; **Actuarial Summit 2025 speaker**, ~**200** attendees).
+AI Deployment Engineer / ML Engineer with ~**5 years** across consulting + enterprise delivery (incl. internship experience), focused on turning GenAI into **production adoption**.
+I build decision and automation systems teams rely on—e.g., a Command Centre real-time hazard map (**10–30 DAU**, ~**30‑min** refresh) that cut response decisions from **days to hours**, supporting outreach at **millions-of-customers** scale.
+I also ship high-leverage automation and GenAI products end-to-end, including IFRS17 reporting automation (**60+ hours → ~10 minutes**) and BrickAI (production agentic app; **Actuarial Summit 2025 speaker**, ~**200** attendees).
 
 ---
 
@@ -37,14 +37,14 @@ Sydney, NSW | Sep 2025 – Present
 - Partnered with senior stakeholders (GM/exec audiences) to define the operating model and metrics on the map (e.g., **claim count**, total damage, **sum insured**, hail distribution, roof type / solar panel distribution), and iterated based on feedback.
 - Led use-case qualification and roadmap discussions for Command Centre decisioning workflows, translating stakeholder needs into a prioritized backlog and measurable success criteria.
 - Supported safe operations with auditability and observability: leveraged **BigQuery query history** and platform logging across CARTO/Kubernetes with **New Relic**.
-- Built reusable internal data services and explored packaging API calls into **MCP tools** for reuse by emerging agent workflows.
+- Built reusable internal data services and packaged selected API calls into **MCP tools** for reuse by emerging agent workflows.
 
 ### Dataly — Senior Data/AI Consultant
 Sydney, NSW | Nov 2023 – Sep 2025
 
 - Automated monthly **IFRS17** valuation reporting end-to-end for Suncorp NZ, reducing cycle time from **60+ hours to ~10 minutes** and improving timeliness and reliability of regulatory reporting.
 - Led GenAI/ML prototypes from discovery to executive-ready demos (Text-to-SQL exploration; claims decision-support concepts using tool calling + OCR/Vision + **PDS-grounded RAG**); helped stakeholders evaluate feasibility/ROI and make build-vs-buy decisions.
-- Worked across architecture and implementation (Python + cloud + data platforms), translating stakeholder needs into build plans, demos, and success metrics.
+- Led discovery with business and technical stakeholders; translated needs into build plans, demos, and measurable success metrics.
 - Codified learnings into reusable assets (templates, demo flows, and guidance) to help teams replicate wins across multiple stakeholders and workstreams.
 
 ### Servian — Associate Consultant
