@@ -19,7 +19,7 @@ This plan tracks each gap item and the concrete edits we will make. We will impl
 
 **Actions**
 - [x] Rewrite CORE SKILLS into role-oriented categories (deployment, enterprise delivery, engineering, cloud, data).
-- [ ] In Projects, keep one technical bullet max; prioritize adoption/impact. (Next pass)
+- [x] In Projects, keep one technical bullet max; prioritize adoption/impact.
 
 ## Gap 3) Trusted advisor / backlog qualification story could be clearer
 
@@ -35,7 +35,7 @@ This plan tracks each gap item and the concrete edits we will make. We will impl
 
 **Actions**
 - [x] Add a Resources section (Medium + resume repo).
-- [ ] (Optional) add one more concrete artifact link if available (demo repo / notebook).
+- [ ] (Optional) add one more concrete artifact link if available (demo repo / notebook). (Need link)
 
 ## Gap 5) Tenure mismatch (JD says 6+ years)
 
