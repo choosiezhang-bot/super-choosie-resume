@@ -9,10 +9,10 @@ Tel: +61 474 845 288 | Email: Zhangcj330@gmail.com | LinkedIn: https://www.linke
 
 AI Deployment Engineer with ~5 years across consulting and enterprise delivery, focused on turning GenAI from demos into production adoption.
 
-I build decision and automation systems teams rely on in critical moments — including a real-time Command Centre perils map that reduced disaster response decisions from days to hours, supporting outreach at millions-of-customers scale.
+I build decision and automation systems that teams rely on in critical moments — including a real-time natural-perils map for the Command Centre that reduced disaster response decisions from days to hours, supporting outreach to millions of customers.
 
 I ship AI end-to-end: from POCs to production systems.
-Projects include a personalized news recommendation platform for News Corp and BrickAI — a production agentic property search app (Presented at 2025 Actuarial Summit speaker ~200 attendees).
+Projects include a personalized news recommendation platform for News Corp and BrickAI — a production agentic property search app (speaker at Actuarial Summit 2025, ~200 attendees).
 
 ---
 
@@ -57,7 +57,7 @@ Sydney, NSW | Mar 2022 – Nov 2023
 
 - **News Corp AU (Recommendations):** Delivered a production-grade, end-to-end recommendation pipeline for real-time personalized news using **Python, AWS Lambda, FastAPI**, and scalable cloud infrastructure.
 - **Pylon (Computer Vision):** Trained and deployed a rooftop segmentation model (Mask R-CNN + custom post-processing), achieving **0.73 mAP (bbox)** / **0.71 mAP (segmentation)** and **<300ms** inference.
-- Westpac - Supported remediation programs through data extraction, reconciliation, and analysis; contributed to triage/prioritization analysis across **~10+ initiatives**, helping reduce operational cost and interest leakage (estimated **~$1M** scale).
+- **Westpac (Remediation):** Supported remediation programs through data extraction, reconciliation, and analysis; contributed to triage/prioritization analysis across **10+ initiatives**, helping reduce operational cost and interest leakage (estimated **~$1M** impact).
 
 ---
 
@@ -72,7 +72,7 @@ Presented BrickAI at the Actuarial Summit 2025 (~200 attendees, room at capacity
 
 Owned product and business end-to-end: strategy, positioning, GTM narrative, and a government grant submission (under review).
 
-Engineered the agentic core using OpenAI + tool/function calling with structured JSON outputs, implementing trace-driven reliability improvements and production-grade logging.
+Engineered the agentic core using OpenAI + tool/function calling with structured outputs (JSON), implementing trace-driven reliability improvements and production-grade logging.
 
 
 ---
