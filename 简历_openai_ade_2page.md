@@ -30,27 +30,26 @@ Projects include a personalized news recommendation platform for News Corp and B
 
 ### IAG — Data Engineer (API, AI/LLM, Deployment)
 Sydney, NSW | Sep 2025 – Present
-situational awareness map
 
-Built a real-time situational awareness map for natural perils used by senior decision-makers in the Command Centre. Reduced disaster response cycles from days to hours, supporting outreach at scale (millions of customers in 2025 QLD hail; tens of thousands of policies in 2026 VIC bushfires).
+#### Situational Awareness Map
+- Built a real-time situational awareness map for natural perils used by senior decision-makers in the Command Centre. Reduced disaster response cycles from days to hours, supporting outreach at scale (millions of customers in 2025 QLD hail; tens of thousands of policies in 2026 VIC bushfires).
+- Designed the geospatial data model (claims, policy, hazard layers) with ~30-minute refresh pipelines powering live dashboards.
+- Deployed to Kubernetes (Helm) with CARTO + BigQuery; implemented CI/CD via GitHub Actions with production approval gates.
 
-Designed the geospatial data model (claims, policy, hazard layers) with ~30-minute refresh pipelines powering live dashboards. Deployed to Kubernetes (Helm) with CARTO + BigQuery, CI/CD via GitHub Actions with production approval gates.
+#### Home Health Check Platform
+- Led the productionisation of the Home Health Check platform, converting a proof-of-concept into a secure, AI-enabled customer-facing risk intelligence system.
+- Architected the cloud solution and secure access model, enforcing property-level, server-side authorization to ensure policyholders only access insights related to their insured assets (zero-trust design).
+- Introduced AI-driven personalisation to convert structured risk data into tailored mitigation guidance, and implemented proactive notification mechanisms to surface emerging risks.
 
-Home Health Check Platform 
-Led the productionisation of the Home Health Check platform, converting a proof-of-concept into a secure, AI-enabled customer-facing risk intelligence system.
-Architected the cloud solution and secure access model, enforcing property-level, server-side authorization to ensure policyholders only access insights related to their insured assets (zero-trust design). 
-Introduced AI-driven personalisation to convert structured risk data into tailored mitigation guidance, and implemented proactive notification mechanisms to surface emerging risks.
-
-Data product
-Extended the platform into reusable data services and MCP-enabled APIs for agent-based workflows.
-
+#### Data Product
+- Extended the platform into reusable data services and MCP-enabled APIs for agent-based workflows.
 
 ### Dataly — Senior Data/AI Consultant
 Sydney, NSW | Nov 2023 – Sep 2025
 
-Operationalized IFRS17 valuation reporting into a governed, automated pipeline, compressing reporting cycles from 60+ hours to ~10 minutes. 
-Drove enterprise GenAI exploration from concept to executive decision — prototyping tool-enabled claims copilots and grounded RAG systems to inform investment and build-vs-buy strategy. 
-Converted stakeholder ambiguity into prioritized roadmaps and measurable outcomes.
+- Operationalized IFRS17 valuation reporting into a governed, automated pipeline, compressing reporting cycles from 60+ hours to ~10 minutes.
+- Drove enterprise GenAI exploration from concept to executive decision — prototyping tool-enabled claims copilots and grounded RAG systems to inform investment and build-vs-buy strategy.
+- Converted stakeholder ambiguity into prioritized roadmaps and measurable outcomes.
 
 ### Servian — Associate Consultant
 Sydney, NSW | Mar 2022 – Nov 2023
@@ -66,14 +65,10 @@ Sydney, NSW | Mar 2022 – Nov 2023
 ### Founder / AI Engineer — BrickAI (Consumer GenAI Agent for Property Search)
 2025 – Present | www.thebrickai.com
 
-Built and launched a consumer-facing GenAI product for Australian property and suburb selection, achieving early user traction through trial onboarding and live demos.
-
-Presented BrickAI at the Actuarial Summit 2025 (~200 attendees, room at capacity) and multiple AI meetups, translating live user feedback into rapid roadmap iterations.
-
-Owned product and business end-to-end: strategy, positioning, GTM narrative, and a government grant submission (under review).
-
-Engineered the agentic core using OpenAI + tool/function calling with structured outputs (JSON), implementing trace-driven reliability improvements and production-grade logging.
-
+- Built and launched a consumer-facing GenAI product for Australian property and suburb selection, achieving early user traction through trial onboarding and live demos.
+- Presented BrickAI at the Actuarial Summit 2025 (~200 attendees, room at capacity) and multiple AI meetups, translating live user feedback into rapid roadmap iterations.
+- Owned product and business end-to-end: strategy, positioning, GTM narrative, and a government grant submission (under review).
+- Engineered the agentic core using OpenAI + tool/function calling with structured outputs (JSON), implementing trace-driven reliability improvements and production-grade logging.
 
 ---
 
@@ -82,8 +77,6 @@ Engineered the agentic core using OpenAI + tool/function calling with structured
 - Medium: **“Three ways to structure tool calling with LLM agent — a security perspective”** (prompt injection / auth)  
   https://medium.com/@zhangcj330/three-ways-to-structure-tool-calling-with-llm-agent-a-security-perspective-0c30f637b4ee
 - Resume repo: https://github.com/choosiezhang-bot/super-choosie-resume
-
-
 
 ---
 
