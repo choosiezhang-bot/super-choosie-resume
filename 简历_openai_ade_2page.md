@@ -7,17 +7,18 @@ Tel: +61 474 845 288 | Email: Zhangcj330@gmail.com | LinkedIn: https://www.linke
 
 ## EXECUTIVE SUMMARY
 
-**I deploy GenAI like an engineer and sell it like a consultant.**
+AI Deployment Engineer with ~5 years across consulting and enterprise delivery, focused on turning GenAI from demos into production adoption.
 
-AI Deployment Engineer / ML Engineer with ~**5 years** across consulting + enterprise delivery (incl. internship experience), focused on turning GenAI into **production adoption**.
-I build decision and automation systems teams rely on—e.g., a Command Centre real-time hazard map (**10–30 DAU**, ~**30‑min** refresh) that cut response decisions from **days to hours**, supporting outreach at **millions-of-customers** scale.
-I also ship high-leverage automation and GenAI products end-to-end, including IFRS17 reporting automation (**60+ hours → ~10 minutes**) and BrickAI (production agentic app; **Actuarial Summit 2025 speaker**, ~**200** attendees).
+I build decision and automation systems teams rely on in critical moments — including a real-time Command Centre perils map that reduced disaster response decisions from days to hours, supporting outreach at millions-of-customers scale.
+
+I ship AI end-to-end: from POCs to production systems.
+Projects include a personalized news recommendation platform for News Corp and BrickAI — a production agentic property search app (Presented at 2025 Actuarial Summit speaker ~200 attendees).
 
 ---
 
 ## CORE SKILLS
 
-- **GenAI deployment:** OpenAI API (chat + function/tool calling), structured outputs (JSON), RAG/vision prototyping, agent/tool integration (MCP)
+- **GenAI deployment:** OpenAI API (chat + function calling), structured outputs (JSON), RAG/vision prototyping, agent/tool integration (MCP)
 - **Enterprise delivery:** use-case qualification, roadmap/backlog, exec communication, stakeholder management, time-to-value
 - **Engineering:** Python, JavaScript (Next.js), API design (FastAPI), CI/CD (GitHub Actions), observability (New Relic)
 - **Cloud/infra:** Kubernetes, Helm, Terraform, Docker; AWS (Lambda/SageMaker/Redshift)
@@ -29,29 +30,34 @@ I also ship high-leverage automation and GenAI products end-to-end, including IF
 
 ### IAG — Data Engineer (API, AI/LLM, Deployment)
 Sydney, NSW | Sep 2025 – Present
+situational awareness map
 
-- Built a real-time **situational awareness** map for natural hazard events used in the Command Centre by ~**10–30 daily active users** (senior operational decision makers); enabled continuous monitoring during major events and reduced response decisions from **day-level to hour-level**, supporting outreach at scale (e.g., **millions of customers** in major hail events; **tens of thousands of policies** in bushfires).
-- Designed the geospatial analytics layer and data model (claims + policy + hazard layers), including scheduled refresh pipelines (typically **~30-minute** updates) powering real-time operational dashboards.
-- Delivered a production deployment on **Kubernetes** (Helm-based), integrating **CARTO** and **BigQuery**-backed querying to render live metrics on a map; implemented CI/CD via **GitHub Actions** with **approval gates** for production changes.
-- Operated within enterprise data governance: contributed designs in the **Data & AI Architecture Forum (DAF)**; aligned to “single view” data products (e.g., **Single View of Property/Claims/Policy/Customer**) built on **dbt + BigQuery** with a controlled ingress layer.
-- Partnered with senior stakeholders (GM/exec audiences) to define the operating model and metrics on the map (e.g., **claim count**, total damage, **sum insured**, hail distribution, roof type / solar panel distribution), and iterated based on feedback.
-- Led use-case qualification and roadmap discussions for Command Centre decisioning workflows, translating stakeholder needs into a prioritized backlog and measurable success criteria.
-- Supported safe operations with auditability and observability: leveraged **BigQuery query history** and platform logging across CARTO/Kubernetes with **New Relic**.
-- Built reusable internal data services and packaged selected API calls into **MCP tools** for reuse by emerging agent workflows.
+Built a real-time situational awareness map for natural perils used by senior decision-makers in the Command Centre. Reduced disaster response cycles from days to hours, supporting outreach at scale (millions of customers in 2025 QLD hail; tens of thousands of policies in 2026 VIC bushfires).
+
+Designed the geospatial data model (claims, policy, hazard layers) with ~30-minute refresh pipelines powering live dashboards. Deployed to Kubernetes (Helm) with CARTO + BigQuery, CI/CD via GitHub Actions with production approval gates.
+
+Home Health Check Platform 
+Led the productionisation of the Home Health Check platform, converting a proof-of-concept into a secure, AI-enabled customer-facing risk intelligence system.
+Architected the cloud solution and secure access model, enforcing property-level, server-side authorization to ensure policyholders only access insights related to their insured assets (zero-trust design). 
+Introduced AI-driven personalisation to convert structured risk data into tailored mitigation guidance, and implemented proactive notification mechanisms to surface emerging risks.
+
+Data product
+Extended the platform into reusable data services and MCP-enabled APIs for agent-based workflows.
+
 
 ### Dataly — Senior Data/AI Consultant
 Sydney, NSW | Nov 2023 – Sep 2025
 
-- Automated monthly **IFRS17** valuation reporting end-to-end for Suncorp NZ, reducing cycle time from **60+ hours to ~10 minutes** and improving timeliness and reliability of regulatory reporting.
-- Led GenAI/ML prototypes from discovery to executive-ready demos (Text-to-SQL exploration; claims decision-support concepts using tool calling + OCR/Vision + **PDS-grounded RAG**); helped stakeholders evaluate feasibility/ROI and make build-vs-buy decisions.
-- Led discovery with business and technical stakeholders; translated needs into build plans, demos, and measurable success metrics.
-- Codified learnings into reusable assets (templates, demo flows, and guidance) to help teams replicate wins across multiple stakeholders and workstreams.
+Operationalized IFRS17 valuation reporting into a governed, automated pipeline, compressing reporting cycles from 60+ hours to ~10 minutes. 
+Drove enterprise GenAI exploration from concept to executive decision — prototyping tool-enabled claims copilots and grounded RAG systems to inform investment and build-vs-buy strategy. 
+Converted stakeholder ambiguity into prioritized roadmaps and measurable outcomes.
 
 ### Servian — Associate Consultant
 Sydney, NSW | Mar 2022 – Nov 2023
 
 - **News Corp AU (Recommendations):** Delivered a production-grade, end-to-end recommendation pipeline for real-time personalized news using **Python, AWS Lambda, FastAPI**, and scalable cloud infrastructure.
 - **Pylon (Computer Vision):** Trained and deployed a rooftop segmentation model (Mask R-CNN + custom post-processing), achieving **0.73 mAP (bbox)** / **0.71 mAP (segmentation)** and **<300ms** inference.
+- Westpac - Supported remediation programs through data extraction, reconciliation, and analysis; contributed to triage/prioritization analysis across **~10+ initiatives**, helping reduce operational cost and interest leakage (estimated **~$1M** scale).
 
 ---
 
@@ -60,14 +66,14 @@ Sydney, NSW | Mar 2022 – Nov 2023
 ### Founder / AI Engineer — BrickAI (Consumer GenAI Agent for Property Search)
 2025 – Present | www.thebrickai.com
 
-- Built and shipped a consumer-facing GenAI product for Australian property search and suburb selection; reached **<200** trial users.
-- Drove adoption and feedback loops through live demos: **speaker** at **Actuarial Summit 2025** (≈**200** attendees; room at capacity) and regular showcases at **AI meetups/conferences**, translating user feedback into roadmap iterations.
-- Owned product + business end-to-end: product strategy, positioning, and a **business plan** for a government grant application (**under review**).
-- Engineered the agentic core on **OpenAI chat + tool/function calling** with **structured JSON outputs**, improving reliability via trace/log-driven iteration.
+Built and launched a consumer-facing GenAI product for Australian property and suburb selection, achieving early user traction through trial onboarding and live demos.
 
-### GenAI / Claims — PDS-grounded RAG + Vision/OCR (Consulting prototypes)
+Presented BrickAI at the Actuarial Summit 2025 (~200 attendees, room at capacity) and multiple AI meetups, translating live user feedback into rapid roadmap iterations.
 
-- Prototyped claims decision-support concepts combining document extraction (OCR/vision), tool calling, and policy-grounded retrieval to improve faithfulness and reduce manual lookup.
+Owned product and business end-to-end: strategy, positioning, GTM narrative, and a government grant submission (under review).
+
+Engineered the agentic core using OpenAI + tool/function calling with structured JSON outputs, implementing trace-driven reliability improvements and production-grade logging.
+
 
 ---
 
@@ -77,13 +83,7 @@ Sydney, NSW | Mar 2022 – Nov 2023
   https://medium.com/@zhangcj330/three-ways-to-structure-tool-calling-with-llm-agent-a-security-perspective-0c30f637b4ee
 - Resume repo: https://github.com/choosiezhang-bot/super-choosie-resume
 
----
 
-## ADDITIONAL EXPERIENCE (SELECTED)
-
-### Westpac — Data Engineer / Analyst (Customer Remediation)
-
-- Supported remediation programs through data extraction, reconciliation, and analysis; contributed to triage/prioritization analysis across **~10+ initiatives**, helping reduce operational cost and interest leakage (estimated **~$1M** scale).
 
 ---
 
