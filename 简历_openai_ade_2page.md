@@ -10,8 +10,8 @@ Tel: +61 474 845 288 | Email: Zhangcj330@gmail.com | LinkedIn: https://www.linke
 **I deploy GenAI like an engineer and sell it like a consultant.**
 
 AI Deployment Engineer / ML Engineer with ~**5 years** across consulting + enterprise delivery (incl. internship experience), focused on turning GenAI into **production adoption**.
-I build decision and automation systems teams rely on—e.g., a Command Centre real-time hazard map (**10–30 DAU**, ~**30‑min** refresh) that cut response decisions from **days to hours**, supporting outreach at **millions-of-customers** scale.
-I also ship high-leverage automation and GenAI products end-to-end, including IFRS17 reporting automation (**60+ hours → ~10 minutes**) and BrickAI (production agentic app; **Actuarial Summit 2025 speaker**, ~**200** attendees).
+I build decision and automation systems that teams rely on in critical moments—e.g., a real-time hazard map for the Command Centre (**10–30 DAU**, ~**30‑min** refresh) that cut response decisions from **days to hours**, supporting outreach to **millions of customers**.
+I also ship high-leverage automation and GenAI products end-to-end, including IFRS17 reporting automation (**60+ hours → ~10 minutes**) and BrickAI (production agentic app; speaker at **Actuarial Summit 2025** — ~**200** attendees).
 
 ---
 
@@ -63,7 +63,7 @@ Sydney, NSW | Mar 2022 – Nov 2023
 - Built and shipped a consumer-facing GenAI product for Australian property search and suburb selection; reached **<200** trial users.
 - Drove adoption and feedback loops through live demos: **speaker** at **Actuarial Summit 2025** (≈**200** attendees; room at capacity) and regular showcases at **AI meetups/conferences**, translating user feedback into roadmap iterations.
 - Owned product + business end-to-end: product strategy, positioning, and a **business plan** for a government grant application (**under review**).
-- Engineered the agentic core on **OpenAI chat + tool/function calling** with **structured JSON outputs**, improving reliability via trace/log-driven iteration.
+- Engineered the agentic core on **OpenAI chat + tool/function calling** with **structured outputs (JSON)**, improving reliability via trace/log-driven iteration.
 
 ### GenAI / Claims — PDS-grounded RAG + Vision/OCR (Consulting prototypes)
 
@@ -83,7 +83,7 @@ Sydney, NSW | Mar 2022 – Nov 2023
 
 ### Westpac — Data Engineer / Analyst (Customer Remediation)
 
-- Supported remediation programs through data extraction, reconciliation, and analysis; contributed to triage/prioritization analysis across **~10+ initiatives**, helping reduce operational cost and interest leakage (estimated **~$1M** scale).
+- Supported remediation programs through data extraction, reconciliation, and analysis; contributed to triage/prioritization analysis across **10+ initiatives**, helping reduce operational cost and interest leakage (estimated **~$1M** impact).
 
 ---
 
